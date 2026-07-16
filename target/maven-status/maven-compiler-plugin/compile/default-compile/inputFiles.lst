@@ -1,0 +1,16 @@
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/TeamLeadGameApplication.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/config/WebConfig.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/controller/GameController.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/dto/GameDtos.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/exception/ApiExceptionHandler.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/exception/GameException.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/model/Candidate.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/model/CandidateAnswer.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/model/GameSession.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/model/GameStatus.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/model/InterviewQuestion.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/model/ProjectDecision.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/model/WorkScenario.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/repository/GameAuditRepository.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/service/GameContent.java
+/Users/a1/Downloads/team-lead-game-backend 11/src/main/java/ru/ruslan/teamleadgame/service/GameService.java
